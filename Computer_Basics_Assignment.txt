@@ -3,7 +3,8 @@ A computer is a device that can perform a variety of tasks, through the use of a
 
 
 What is RAM?
-RAM (volatile memory) is a type of computer memory that is used to temporarily store data that the computer is currently using or processing. This data can be quickly accessed by the computer's processor, which allows the computer to perform tasks more efficiently.
+RAM (volatile memory) is a type of computer memory that is used to temporarily store data that the computer is currently using or processing. 
+This data can be quickly accessed by the computer's processor, which allows the computer to perform tasks more efficiently.
 
 
 Where data stored in a computer?
