@@ -1,0 +1,32 @@
+What is a computer?
+A computer is a device that can perform a variety of tasks, through the use of a processor, memory, and input/output devices.
+
+
+What is RAM?
+RAM (volatile memory) is a type of computer memory that is used to temporarily store data that the computer is currently using or processing. This data can be quickly accessed by the computer's processor, which allows the computer to perform tasks more efficiently.
+
+
+Where data stored in a computer?
+Data in a computer is stored in a variety of locations:
+RAM: Data that is currently being used or processed.
+Hard Drive or SSD: Data that needs to be stored long-term.
+
+
+What is that input device used to type text and numbers on a document in the computer system?
+A keyboard that is an input device which is commonly used to type text and numbers on a document in a computer system.
+
+
+What are the output devices?
+Monitor, Printer, Headphones, Speakers and etc.
+
+
+Which is the input device that allows a user to move the cursor or pointer on the screen?
+A mouse is an input device that allows a user to move the cursor or pointer on the screen.
+
+
+Which language is directly understood by the computer without a translation program?
+Machine language.
+
+
+What are Input devices?
+Keyboard, Mouse, Scanner, Microphone, Webcam and etc.
